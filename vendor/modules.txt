@@ -1,0 +1,12 @@
+# github.com/aead/chacha20 v0.0.0-20180709150244-8b13a72661da
+github.com/aead/chacha20
+github.com/aead/chacha20/chacha
+# github.com/shadowsocks/shadowsocks-go v0.0.0-20190614083952-6a03846ca9c0
+github.com/shadowsocks/shadowsocks-go/shadowsocks
+# golang.org/x/crypto v0.0.0-20190621222207-cc06ce4a13d4
+golang.org/x/crypto/blowfish
+golang.org/x/crypto/cast5
+golang.org/x/crypto/salsa20/salsa
+# golang.org/x/sys v0.0.0-20190412213103-97732733099d
+golang.org/x/sys/cpu
+golang.org/x/sys/unix
